@@ -1,0 +1,1 @@
+Aquest és un projecte desenvolupat per l'alumne Martí Batlles Cabré, de l'Institut Tecnològic de Barcelona com a treball de recerca de 2n de batxillerat. El projecte consisteix en la implementació d'un sistema de reg intel·ligent que rega en funció de l'humitat que té una planta.
